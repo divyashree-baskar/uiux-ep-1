@@ -18,6 +18,7 @@ c. Illustrate the relationship between UI and UX in design.
 d. Demonstrate various UI/UX design tools in detail.
 
 OUTPUT:
+
 [DocScanner Apr 17, 2025 10-42 PM (2).pdf](https://github.com/user-attachments/files/20490729/DocScanner.Apr.17.2025.10-42.PM.2.pdf)
 
 RESULT:
